@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>APURVGH-CARBON</Machine>
+    <WindowsUser>apurvgh</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>88d34e04-2add-497a-8984-46dcba45c34b</PackageIdentityName>
+    <IntermediateOutputPath>D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C55F5B39914489A5DD4914CF896C78232F417A3247131B3B4F64856E5A7A8BC3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>88d34e04-2add-497a-8984-46dcba45c34b_1.0.0.0_neutral__93z82r6s1y368</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>88d34e04-2add-497a-8984-46dcba45c34b_93z82r6s1y368!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>88d34e04-2add-497a-8984-46dcba45c34b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=apurvgh</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-07T20:38:46.963</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\bin\Debug\CRMStoreApp.exe">
+      <PackagePath>CRMStoreApp.exe</PackagePath>
+      <Modified>2015-01-18T06:13:54.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\bin\Debug\Microsoft.Crm.Sdk.Mobile.dll">
+      <PackagePath>Microsoft.Crm.Sdk.Mobile.dll</PackagePath>
+      <Modified>2015-01-10T16:48:37.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-12-29T18:59:27.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\packages\Microsoft.IdentityModel.Clients.ActiveDirectory.2.13.112191810\lib\netcore45\Microsoft.IdentityModel.Clients.ActiveDirectory.winmd">
+      <PackagePath>Microsoft.IdentityModel.Clients.ActiveDirectory.winmd</PackagePath>
+      <Modified>2015-01-07T11:10:25.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\App-blog.html">
+      <PackagePath>App-blog.html</PackagePath>
+      <Modified>2015-01-07T11:10:25.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-06T17:12:48.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-06T17:12:48.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-06T17:12:48.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-06T17:12:48.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\StyleSheet1.css">
+      <PackagePath>StyleSheet1.css</PackagePath>
+      <Modified>2015-01-07T11:10:25.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-01-07T20:38:44.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-01-07T20:38:44.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\bin\Debug\CRMStoreApp.xr.xml">
+      <PackagePath>CRMStoreApp.xr.xml</PackagePath>
+      <Modified>2015-01-06T17:11:29.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS Researches\Github\MobileApps\Windows\CRMStoreApp\CRMStoreApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-07T20:38:45.057</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

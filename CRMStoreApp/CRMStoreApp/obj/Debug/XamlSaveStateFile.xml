@@ -1,0 +1,6 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="d:\vs researches\github\mobileapps\windows\crmstoreapp\crmstoreapp\bin\debug\microsoft.crm.sdk.mobile.dll" HashGuid="564bcc24-eb6b-1e8c-858a-5c2837169fbe" />
+    <ReferenceAssembly PathName="d:\vs researches\github\mobileapps\windows\crmstoreapp\packages\microsoft.identitymodel.clients.activedirectory.2.13.112191810\lib\netcore45\microsoft.identitymodel.clients.activedirectory.winmd" HashGuid="1ab1d4be-6240-868e-1f45-34a76077fd63" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
